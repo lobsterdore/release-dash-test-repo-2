@@ -1,0 +1,6 @@
+---
+
+environment_tags:
+  - dev
+  - prd
+name: release-dash-test-repo-2
